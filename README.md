@@ -15,3 +15,6 @@ To obtain a coverage score, ensure the avl.py file is installed with the test_av
 Then run this command to generate a coverage score: "pytest test_avl.py --cov=avl"
 
 This will then generate the generalizd coverage score for avl.py
+
+
+*Please note that any new functions added to avl.py were labeled with comments as "newly added function"*
